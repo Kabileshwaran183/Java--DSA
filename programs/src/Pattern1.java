@@ -1,3 +1,9 @@
+//Enter the n value : 8
+//        1,
+//        2,3,
+//        4,5,6,
+//        7,8.
+
 import java.util.Scanner;
 public class Pattern1 {
     public static void main(String[] args)
