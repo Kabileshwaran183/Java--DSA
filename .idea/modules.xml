@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/full DSA preparation.iml" filepath="$PROJECT_DIR$/full DSA preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programs/programs.iml" filepath="$PROJECT_DIR$/programs/programs.iml" />
     </modules>
   </component>
 </project>
