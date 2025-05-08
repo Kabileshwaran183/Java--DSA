@@ -44,7 +44,13 @@ public class Pattern2 {
             System.out.println();
         }
     }
-
+//           *
+//          * *
+//         * * *
+//        * * * *
+//         * * *
+//          * *
+//           *
     static void p3(int n)
     {
         for(int i=1; i<2*n; i++)
