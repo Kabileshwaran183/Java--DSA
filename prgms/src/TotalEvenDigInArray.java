@@ -1,6 +1,6 @@
 public class TotalEvenDigInArray {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 333, 442332,234,55};
+        int[] arr = {1, 2, 333,-2345, 442332,234,55};
         totalEvenDigits(arr);
     }
 
@@ -12,6 +12,7 @@ public class TotalEvenDigInArray {
         int evenCount = 0;
         for(int val : arr)
         {
+            if(val<0) val = val * (-1);  // for negative values -->  -2345
             int digcount = 0;
             while(val>0)
             {
