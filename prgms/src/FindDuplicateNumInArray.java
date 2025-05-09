@@ -2,7 +2,9 @@ public class FindDuplicateNumInArray {
     public static void main(String[] args) {
         int[] arr = {1, 3, 5, 4, 3, 2};
         int res = DuplicateNumber(arr);
-        System.out.print(res);
+
+        if(res==-1) System.out.print("there is no duplicate value");
+        else System.out.print(res);
     }
     private static int DuplicateNumber(int[] arr)
     {
@@ -17,7 +19,7 @@ public class FindDuplicateNumInArray {
             }
             else i++;
         }
-        return arr.length;
+        return -1;
     }
 
     private static void swap(int[] arr, int a, int b)
