@@ -1,7 +1,4 @@
 
-
-
-
 public class Cyclesort {
 
     public static void main(String[] args)
