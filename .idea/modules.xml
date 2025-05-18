@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/programs/Patterns.iml" filepath="$PROJECT_DIR$/programs/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programs/Programs.iml" filepath="$PROJECT_DIR$/Programs/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicMaths/basicMaths.iml" filepath="$PROJECT_DIR$/basicMaths/basicMaths.iml" />
       <module fileurl="file://$PROJECT_DIR$/full DSA preparation.iml" filepath="$PROJECT_DIR$/full DSA preparation.iml" />
       <module fileurl="file://$PROJECT_DIR$/prgms/prgms.iml" filepath="$PROJECT_DIR$/prgms/prgms.iml" />
     </modules>
