@@ -6,6 +6,7 @@ public class findLastDigofApowB {
     }
 
     static int getLastDigit(String a, String b) {
+        if (b=="0") return 1;
         int base = a.charAt(a.length() - 1) - '0';
         int exponent = findExponent(b, 4);
         if (exponent == 0) exponent = 4;
