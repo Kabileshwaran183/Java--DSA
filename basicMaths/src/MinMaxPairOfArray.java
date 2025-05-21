@@ -12,6 +12,5 @@ public class MinMaxPairOfArray {
             if (num<min) min= num;
         }
         System.out.print(min + " " +  max);
-
     }
 }
