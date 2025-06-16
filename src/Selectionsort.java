@@ -1,6 +1,6 @@
 public class Selectionsort {
     public static void main(String[] args){
-        int arr[] = {2, 6, 3, 9, 1};
+        int arr[] = {2, 6, 3, 3, 1};
         ssort(arr);
     }
 
